@@ -1,11 +1,11 @@
-**Cover-Crop-Micro-Environment-Sensor-Bar**
+# Cover-Crop-Micro-Environment-Sensor-Bar
 
 Cover Crop Micro Environment Sensor Bar is a fully integrated embedded system tool to gather Crop field Micro environment data with ease for Cover crops. Just carry it to your plot, put in the plot number, and press the button to capture Above canopy PAR light, ground PAR light, soil moisture properties and get them all stored in a CSV file.
 
 **![image](https://github.com/Farmers-Data-Lab/Cover-Crop-Micro-Environment-Sensor-Bar/assets/82876080/669425a2-d16d-46f3-b19b-863964cf9a30)**
 
 
-**SECTION-1: How to Use –**
+## SECTION-1: How to Use –
 
 (To build the device see Section 2 onwards)
 
@@ -36,7 +36,7 @@ To get the data-
 1) It will show up as a regular hard disk, open it and you will see the .CSV files stored in it. 
 1) Open the CSV files in MS excel or any other software to view the data.
 
-**SECTION-2:  How to build at home –**
+## SECTION-2:  How to build at home –
 
 Do the following-
 
@@ -46,12 +46,12 @@ Do the following-
 1) After connecting everything according to the circuit diagram upload the code given above (file name – code\_v1.ino) inside the Arduino Mega using a USB cable, The code would need to be compiled and uploaded using the Arduino IDE which can be downloaded for free from the Arduino Website. Once you download the IDE, you need to install a few Arduino libraries for this code to work, which can be done by going to the library manager on the left side vertical panel and searching and installing the libraries mentioned in Section 6. After installing all these libraries you should be able to compile and upload the code onto the Arduino. the screen should light up displaying all values as zero. This is the initial screen and will display the correct values after the first recording is taken. You can also test the functionality of the code by establishing a serial connection with Arduino at baud rate 9600. This can be done directly using the Serial monitor in the Arduino IDE API by going to Tools>Serial Monitor in the GUI or by simply pressing Ctrl + Shift + M. You can also do a serial connection via other interfacing softwares like Putty or MobaXterm.
 1) After coding the Arduino take out the usb cable, your device is ready to use!
 
-**SECTION-3:  Parts used in the project –**
+## SECTION-3:  Parts used in the project –
 
-**SECTION-4:  Physical structure of the Sensor Bar –**
+## SECTION-4:  Physical structure of the Sensor Bar –
 
-**SECTION-5:  Circuit Diagram –**
+## SECTION-5:  Circuit Diagram –
 
-**SECTION-6:  Libraries required for software compilation –**
+## SECTION-6:  Libraries required for software compilation –
 
 
