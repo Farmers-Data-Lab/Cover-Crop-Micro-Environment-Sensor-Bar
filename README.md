@@ -5,6 +5,8 @@ Cover Crop Micro Environment Sensor Bar is a fully integrated embedded system to
 **![image](https://github.com/Farmers-Data-Lab/Cover-Crop-Micro-Environment-Sensor-Bar/assets/82876080/669425a2-d16d-46f3-b19b-863964cf9a30)**
 
 
+
+
 ## SECTION-1: How to Use –
 
 **(To build the device see Section 2 onwards)**
