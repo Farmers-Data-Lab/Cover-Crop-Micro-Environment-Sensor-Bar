@@ -7,7 +7,7 @@ Cover Crop Micro Environment Sensor Bar is a fully integrated embedded system to
 
 ## SECTION-1: How to Use –
 
-(To build the device see Section 2 onwards)
+**(To build the device see Section 2 onwards)**
 
 This sensor bar captures the following data and stores it in a .CSV file(Microsoft excel file) in the SD card put in it –
 
