@@ -72,7 +72,8 @@ Here is the list of parts that we have used -
 
 
 ## SECTION-5:  Circuit Diagram –
-![image](https://github.com/Farmers-Data-Lab/Cover-Crop-Micro-Environment-Sensor-Bar/assets/82876080/40ea8f9a-304c-459b-bc98-a6724bce8518)
+![image](https://github.com/Farmers-Data-Lab/Cover-Crop-Micro-Environment-Sensor-Bar/assets/82876080/5f1a6fc5-c8c2-447b-a5dc-3aba7c9c4ff6)
+
 
 
 
