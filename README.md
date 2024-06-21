@@ -72,7 +72,16 @@ Here is the list of parts that we have used -
 
 
 ## SECTION-5:  Circuit Diagram –
-![image](https://github.com/Farmers-Data-Lab/Cover-Crop-Micro-Environment-Sensor-Bar/assets/82876080/5f1a6fc5-c8c2-447b-a5dc-3aba7c9c4ff6)
+![image](https://github.com/Farmers-Data-Lab/Cover-Crop-Micro-Environment-Sensor-Bar/assets/82876080/73c5d211-8fd2-4823-8b92-77bbe895f497)
+
+
+
+### STEP 2:
+Use the instructions on the Adafruit website to prepare the data logger shield-
+link- https://learn.adafruit.com/adafruit-data-logger-shield/installing-the-headers
+
+![image](https://github.com/Farmers-Data-Lab/Cover-Crop-Micro-Environment-Sensor-Bar/assets/82876080/e7a398fe-9abf-49cf-9e57-6cdf2a57a271)
+
 
 
 
