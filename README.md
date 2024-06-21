@@ -64,7 +64,7 @@ Here is the list of parts that we have used -
 12) 3x Adjustable Buck converters
 13) Connecting wires
 14) 1x Buzzer
-15) Additional items like connectors, screw shields, power buses to make connections strong and reliable (details and list in the folder above named sensor_documentation)
+15) Additional items like connectors, screw shields, power buses to make connections strong and reliable (links to buy them available above)
     
 ## SECTION-4:  Physical structure of the Sensor Bar –
 
@@ -72,6 +72,8 @@ Here is the list of parts that we have used -
 
 
 ## SECTION-5:  Circuit Diagram –
+![image](https://github.com/Farmers-Data-Lab/Cover-Crop-Micro-Environment-Sensor-Bar/assets/82876080/40ea8f9a-304c-459b-bc98-a6724bce8518)
+
 
 
 ## SECTION-6:  Libraries required for software compilation –
