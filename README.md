@@ -76,11 +76,13 @@ Here is the list of parts that we have used -
 
 
 
-### STEP 2:
+### STEP 1:
 Use the instructions on the Adafruit website to prepare the data logger shield-
 link- https://learn.adafruit.com/adafruit-data-logger-shield/installing-the-headers
 
 ![image](https://github.com/Farmers-Data-Lab/Cover-Crop-Micro-Environment-Sensor-Bar/assets/82876080/e7a398fe-9abf-49cf-9e57-6cdf2a57a271)
+
+![image](https://github.com/Farmers-Data-Lab/Cover-Crop-Micro-Environment-Sensor-Bar/assets/82876080/3a989567-73ac-423d-b26a-0d109c1665d4)
 
 
 
