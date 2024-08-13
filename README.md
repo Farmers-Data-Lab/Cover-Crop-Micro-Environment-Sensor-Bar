@@ -88,6 +88,4 @@ link- https://learn.adafruit.com/adafruit-data-logger-shield/installing-the-head
 
 
 
-## SECTION-6:  Libraries required for software compilation –
-
 
